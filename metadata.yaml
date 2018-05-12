@@ -1,0 +1,27 @@
+_repo: The-business-career-in-its-public-relations_29641
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shaw, Albert
+    birthdate: 1857
+    deathdate: 1947
+    gutenberg_agent_id: '34053'
+    url: http://www.gutenberg.org/2009/agents/34053
+description: ''
+gutenberg_issued: '2009-08-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29641'
+  lccn: 04036682
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Business ethics'
+- !lcc 'HF'
+title: The business career in its public relations
+url: http://www.gutenberg.org/ebooks/29641
